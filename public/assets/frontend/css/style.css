@@ -11880,3 +11880,6 @@ color: #fff;
 .left.calender {
 	float: left !important;
 }
+.step-img img {
+  margin-top: 0;
+}
